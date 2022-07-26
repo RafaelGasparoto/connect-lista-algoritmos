@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656649675 source:d:\connect\c_projects\lista01_ex40\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

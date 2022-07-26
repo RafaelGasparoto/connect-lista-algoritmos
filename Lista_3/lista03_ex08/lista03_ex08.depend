@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657657447 source:d:\connect\lista 3\lista03_ex08\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
